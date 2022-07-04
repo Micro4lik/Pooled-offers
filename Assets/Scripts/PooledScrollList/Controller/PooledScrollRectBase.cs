@@ -3,6 +3,7 @@ using System.Linq;
 using Offers.Data;
 using Offers.View;
 using PooledScrollList.Data;
+using PooledScrollList.Pool;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
